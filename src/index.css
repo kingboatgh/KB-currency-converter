@@ -13,7 +13,6 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  /* background: url(src/assets/kb.png) #030728 no-repeat center; */
   background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,13,121,1) 11%, rgba(192,0,255,1) 100%);
 }
